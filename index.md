@@ -4,7 +4,7 @@ This is my home page! My name is Keith Bui and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/tzunni.
+My GitHub page is [http://github.com/tzunni](http://github.com/tzunni).
 
 ### CPSC 120
 
