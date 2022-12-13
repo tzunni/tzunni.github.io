@@ -2,6 +2,8 @@
 layout: single
 title: My Github Portfolio
 author_profile: true
+header:
+    image: IMG_7392(1).png
 ---
 
 This is my home page! My name is Keith Bui and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
