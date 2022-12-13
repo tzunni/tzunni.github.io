@@ -2,4 +2,5 @@
 name: Keith's Portfolio
 description: Portfolio for CPSC 120
 markdown: GFM
-theme: minimal
+plugins: jekyll-include-cache
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
