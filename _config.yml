@@ -35,3 +35,11 @@ footer:
 
 atom_feed:
   hide: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
