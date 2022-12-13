@@ -3,4 +3,4 @@ name: Keith's Portfolio
 description: Portfolio for CPSC 120
 url: "http://tzunni.github.io"
 markdown: GFM
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+theme: minimal
