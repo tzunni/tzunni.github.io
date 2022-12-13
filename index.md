@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: My Github Portfolio
 author_profile: true
 header:
