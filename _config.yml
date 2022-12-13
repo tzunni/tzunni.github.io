@@ -70,7 +70,7 @@ defaults:
       share: true
 
 author_profile: true
-logo: 61d183263a856e0004c6334a_500x500.png
+logo: "61d183263a856e0004c6334a_500x500.png"
 
 author:
   name: "Keith Bui"
