@@ -1,7 +1,6 @@
 # Build settings
 title: "Keith's Portfolio"
 subtitle: "Portfolio for CPSC 120"
-name: "Keith Bui"
 markdown: GFM
 plugins: 
   - jekyll-paginate
