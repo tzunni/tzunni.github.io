@@ -10,9 +10,9 @@ plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
+layout: single
 
 defaults:
-  # _posts
     values:
       author_profile: true
 
