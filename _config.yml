@@ -11,10 +11,7 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 layout: single
-
-defaults:
-    values:
-      author_profile: true
+author_profile: true
 
 author:
   name: "Keith Bui"
