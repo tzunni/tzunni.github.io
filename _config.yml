@@ -14,9 +14,6 @@ minimal_mistakes_skin: "dark"
 
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
     values:
       author_profile: true
 
