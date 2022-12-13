@@ -10,7 +10,13 @@ plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
-layout: single
+defaults:
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "default"
+
 author_profile: true
 
 author:
