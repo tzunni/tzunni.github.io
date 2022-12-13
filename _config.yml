@@ -1,7 +1,9 @@
 # Build settings
-name: Keith's Portfolio
-description: Portfolio for CPSC 120
+title: "Keith's Portfolio"
+subtitle: "Portfolio for CPSC 120"
+name: "Keith Bui"
 markdown: GFM
 plugins: 
 - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark"
