@@ -23,8 +23,6 @@ atom_feed:
 defaults:
   # _posts
     values:
-      layout: single
-      author_profile: true
       read_time: false
       comments: false
       share: false
