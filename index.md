@@ -13,6 +13,7 @@ My GitHub page is http://github.com/tzunni.
     Lab 7, part 2 was really satisfying to do because it gave us an old prompt to optimize and abstract. This was really nice because it was a nice indicator of how something just a few weeks ago could be done in a completely different way, and the increased complexity showed how much we grew as programmers. I struggled with implementing each of these functions separately, but with the addition of unit tests, it created a whole new way to approach problems step by step, rather than before where everything would be taken in and spit out all at once
 
 * Lab 10
+
     Lab 10, part 1 felt useless in the short term, because there are built in functions in most languages that calculate the area of a rectangle for you. However, this was a nice refresher on how real world constraints have to be considered in a program, especially as smaller functions like this have to have a expected result in order to be used in larger programs that rely on consistent results. There's also significant value in sharpening up skills on smaller functions like this so it's more obvious what mistakes you make, as full fleged programs may not make it as obvious that the code is not working as it's supposed to.
 
 * Lab 12
