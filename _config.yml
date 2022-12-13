@@ -11,6 +11,7 @@ plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "dark"
+
 author:
   name: "Keith Bui"
   bio: "I'm a first year computer science student, looking for opportunities to grow."
@@ -22,6 +23,7 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/keithqbui/"
+
 footer:
   links:
     - label: "GitHub"
@@ -30,12 +32,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/keithqbui/"
+
 atom_feed:
   hide: true
-defaults:
-  # _posts
-    values:
-      read_time: false
-      comments: false
-      share: false
-      related: false
